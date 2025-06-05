@@ -1,0 +1,1150 @@
+{
+  "theme": {
+    "name": "Bayer Roundup Weedkiller Cancer Lawsuits",
+    "kgid": "MaQ84293085",
+    "scrape_query": "",
+    "isAlertable": true
+  },
+  "urls": [
+    {
+      "url": "https://www.reuters.com/legal/government/bayers-monsanto-loses-appeal-611m-roundup-verdict-missouri-2025-05-28/",
+      "title": "Bayer's Monsanto loses appeal of $611M Roundup verdict in Missouri | Reuters",
+      "publishedAt": "2025-05-29T00:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.reuters.com"
+    },
+    {
+      "url": "https://www.ehn.org/iowa-farmers-fighting-cancer-risk-seek-accountability-as-bayer-pushes-for-lawsuit-protection",
+      "title": "Iowa farmers fighting cancer risk seek accountability as Bayer pushes for lawsuit protection - EHN",
+      "publishedAt": "2025-05-27T00:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.ehn.org"
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/lawyers-for-5-000-plus-cancer-victims-slam-monsanto-bankruptcy-bid-launch-new-lawsuits-302460825.html",
+      "title": "Lawyers for 5,000-Plus Cancer Victims Slam Monsanto Bankruptcy Bid, Launch New Lawsuits",
+      "publishedAt": "2025-05-20T00:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.prnewswire.com"
+    },
+    {
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/bayer-seeks-roundup-settlement-explores-monsanto-bankruptcy-wsj-reports-2025-05-15/",
+      "title": "Bayer seeks Roundup settlement, explores Monsanto bankruptcy, WSJ reports",
+      "publishedAt": "2025-05-15T06:00:00Z",
+      "isAlertable": true,
+      "translatedTitle": null,
+      "source": "www.reuters.com"
+    },
+    {
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/bayer-us-supreme-court-could-decide-june-whether-it-will-hear-glyphosate-case-2025-05-13/",
+      "title": "Bayer: U.S. Supreme Court could decide in June whether it will hear glyphosate case",
+      "publishedAt": "2025-05-13T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.reuters.com"
+    },
+    {
+      "url": "https://www.farms.com/news/bayer-ceo-warns-that-company-may-stop-making-roundup-226155.aspx",
+      "title": "Bayer CEO Warns that Company May Stop Making Roundup",
+      "publishedAt": "2025-04-21T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.farms.com"
+    },
+    {
+      "url": "https://telex.hu/techtud/2025/04/15/glifozat-magyarorszagi-vizek-kornyezetszennyezes-vizugyi-jelentes",
+      "title": "Glyphosate has already seeped into domestic lakes, rivers and groundwater",
+      "publishedAt": "2025-04-15T00:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "telex.hu"
+    },
+    {
+      "url": "https://observador.pt/2025/04/03/theo-nasceu-com-malformacoes-no-sistema-respiratorio-depois-de-a-mae-ter-usado-glifosato-na-gravidez-comecou-julgamento-contra-a-bayer/",
+      "title": "Théo was born with respiratory malformations after his mother used glyphosate during pregnancy. Trial against Bayer begins",
+      "publishedAt": "2025-04-03T00:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "observador.pt"
+    },
+    {
+      "url": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/vienne-38/nous-sommes-plus-determines-que-jamais-le-geant-bayer-monsanto-assigne-en-justice-pour-les-malformations-de-theo-17-ans-3127831.html",
+      "title": "We are more determined than ever: the giant Bayer/Monsanto sued for the malformations of 17-year-old Theo",
+      "publishedAt": "2025-04-01T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "france3-regions.francetvinfo.fr"
+    },
+    {
+      "url": "https://www.consumeraffairs.com/news/georgia-jury-returns-21-billion-verdict-against-roundup-032425.html",
+      "title": "Georgia jury returns $2.1 billion verdict against Roundup",
+      "publishedAt": "2025-03-24T06:00:00Z",
+      "isAlertable": true,
+      "translatedTitle": null,
+      "source": "www.consumeraffairs.com"
+    },
+    {
+      "url": "https://www.en.krishakjagat.org/crop-protection/bayer-considers-withdrawing-roundup-from-u-s-market-over-legal-risks/#google_vignette",
+      "title": "Bayer Considers Withdrawing Roundup from U.S. Market Over Legal Risks",
+      "publishedAt": "2025-03-10T06:00:00Z",
+      "isAlertable": true,
+      "translatedTitle": null,
+      "source": "www.en.krishakjagat.org"
+    },
+    {
+      "url": "https://missouriindependent.com/2025/03/03/lawyer-demands-records-of-bayers-roundup-propaganda-campaign-in-missouri/",
+      "title": "Lawyer demands records of Bayer’s Roundup ‘propaganda’ campaign in Missouri",
+      "publishedAt": "2025-03-03T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "missouriindependent.com"
+    },
+    {
+      "url": "https://missouriindependent.com/2025/01/23/bayer-urges-missouri-lawmakers-to-pass-bill-critics-say-shields-it-from-roundup-lawsuits/",
+      "title": "Bayer urges Missouri lawmakers to pass bill critics say shields it from Roundup lawsuits",
+      "publishedAt": "2025-01-23T06:00:00Z",
+      "isAlertable": true,
+      "translatedTitle": null,
+      "source": "missouriindependent.com"
+    },
+    {
+      "url": "https://www.forbes.com/sites/chriswestfall/2025/01/07/cutting-middle-management-bayers-costly-experiment-one-year-later/",
+      "title": "Cutting Middle Management: Bayer's Costly Experiment One Year Later",
+      "publishedAt": "2025-01-07T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.forbes.com"
+    },
+    {
+      "url": "https://www.jdsupra.com/legalnews/roundup-users-with-lymphoma-may-qualify-6964151/",
+      "title": "Roundup Users With Lymphoma May Qualify to File a Lawsuit",
+      "publishedAt": "2025-01-07T06:00:00Z",
+      "isAlertable": true,
+      "translatedTitle": null,
+      "source": "www.jdsupra.com"
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20250103346899/en/Bayer-Federal-Court-Brings-an-End-to-Roundup%E2%84%A2-Litigation-in-Australia",
+      "title": "Bayer: Federal Court Brings an End to Roundup™ Litigation in Australia",
+      "publishedAt": "2025-01-03T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.businesswire.com"
+    },
+    {
+      "url": "https://www.morningstar.com/news/dow-jones/202501032517/bayers-roundup-lawsuit-in-australia-discontinued-by-court",
+      "title": "Bayer's Roundup Lawsuit in Australia Discontinued by Court",
+      "publishedAt": "2025-01-03T06:00:00Z",
+      "isAlertable": true,
+      "translatedTitle": null,
+      "source": "www.morningstar.com"
+    },
+    {
+      "url": "https://fortune.com/europe/2024/11/12/chemical-giant-bayer-reports-heavy-drop-profit/",
+      "title": "Chemical giant Bayer reports heavy drop in profit amid ongoing Roundup cancer lawsuit",
+      "publishedAt": "2024-11-12T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "fortune.com"
+    },
+    {
+      "url": "https://www.reuters.com/legal/bayer-must-pay-78-mln-latest-roundup-cancer-trial-jury-finds-2024-10-10/",
+      "title": "Bayer must pay $78 million in latest Roundup cancer trial, jury finds",
+      "publishedAt": "2024-10-10T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.reuters.com"
+    },
+    {
+      "url": "https://investigatemidwest.org/2024/09/25/glyphosate-cancer-risks-supreme-court-debate/",
+      "title": "Clarity needed over glyphosate misbranding at state, fed levels - Investigate Midwest",
+      "publishedAt": "2024-09-25T00:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "investigatemidwest.org"
+    },
+    {
+      "url": "https://corporateeurope.org/en/2024/09/bayers-toxic-trails",
+      "title": "Bayer’s toxic trails | Corporate Europe Observatory",
+      "publishedAt": "2024-09-23T00:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "corporateeurope.org"
+    },
+    {
+      "url": "https://www.wallstreet-online.de/nachricht/18504087-bayer-supreme-court",
+      "title": "Bayer relies on Supreme Court",
+      "publishedAt": "2024-09-18T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.wallstreet-online.de"
+    },
+    {
+      "url": "https://ct.moreover.com/?a=54753620823&p=bqm&v=1&x=yP4_NKevemq6tf--UqG-nQ",
+      "title": "Bayer's plan for a turnaround in the USA; lawsuits over glyphosate are weighing heavily on the share price. Now the company wants to achieve legal reforms and is hoping for the Supreme Court.",
+      "publishedAt": "2024-09-11T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "ct.moreover.com"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/partner/wallstreetonline/58-000-klagen-noch-offen-bill-andersons-plan-bedrohung-durch-glyphosat-klagen-signifikant-eindaemmen/4553388/",
+      "title": "Bill Anderson's plan - \"Significantly reduce the threat of glyphosate lawsuits\"",
+      "publishedAt": "2024-09-11T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.boersennews.de"
+    },
+    {
+      "url": "https://www.ntg24.de/Bayer-Lobbyarbeit-zahlt-sich-aus-06092024-AGD-Aktien",
+      "title": "Bayer – Lobbying pays off!",
+      "publishedAt": "2024-09-06T00:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.ntg24.de"
+    },
+    {
+      "url": "https://www.agri-pulse.com/articles/21579-bayer-inches-closer-to-supreme-court-on-fifra-preemption-issue",
+      "title": "Bayer inches closer to Supreme Court on FIFRA preemption issue",
+      "publishedAt": "2024-09-04T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.agri-pulse.com"
+    },
+    {
+      "url": "https://www.bclplaw.com/en-US/events-insights-news/bclp-litigation-leader-noted-for-collaboration-on-roundup-preemption-win.html",
+      "title": "BCLP litigation leader noted for collaboration on roundup preemption win",
+      "publishedAt": "2024-08-26T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.bclplaw.com"
+    },
+    {
+      "url": "https://www.sheppnews.com.au/news/roundup-class-action-loss-a-win-for-farmers-bayer-3/",
+      "title": "Roundup class action loss a ‘win for farmers’: Bayer",
+      "publishedAt": "2024-08-26T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.sheppnews.com.au"
+    },
+    {
+      "url": "https://www.aboutlawsuits.com/federal-appeals-court-rules-roundup-cancer-lawsuit-failure-to-warn-claims-preempted-by-fda-rules/",
+      "title": "U.S. Appeals Court Finds Roundup Failure to Warn Claims Preempted by Federal Law",
+      "publishedAt": "2024-08-22T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.aboutlawsuits.com"
+    },
+    {
+      "url": "https://www.lawsuit-information-center.com/roundup-lawsuit.html#:~:text=June%2027%2C%202024%20%E2%80%93%20Texas%20Two%20Step&text=This%20process%20would%20involve%20Bayer,not%20work%20in%20the%20end.",
+      "title": "Monsanto Roundup Lawsuit ",
+      "publishedAt": "2024-08-20T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.lawsuit-information-center.com"
+    },
+    {
+      "url": "https://www.greenme.it/ambiente/agricoltura/vittoria-per-bayer-e-il-suo-glifosato-il-tribunale-respinge-le-accuse-e-fa-volare-le-azioni-in-borsa/",
+      "title": "Victory for Bayer and its glyphosate: the court rejects the charges and sends the shares soaring on the stock exchange",
+      "publishedAt": "2024-08-19T12:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.greenme.it"
+    },
+    {
+      "url": "https://www.agrimarketing.com/s/150753",
+      "title": "Bayer Wins Appeal In Roundup Lawsuit, May Send The Case To The Supreme Court",
+      "publishedAt": "2024-08-16T12:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.agrimarketing.com"
+    },
+    {
+      "url": "https://www.ft.com/content/442f76e8-8a5b-4ba5-adcc-763bca78e320",
+      "title": "Bayer shares jump after key US court win in Roundup litigation saga",
+      "publishedAt": "2024-08-16T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.ft.com"
+    },
+    {
+      "url": "https://usrtk.org/pesticides/glyphosate-health-concerns/",
+      "title": "Glyphosate: Cancer and other health concerns",
+      "publishedAt": "2024-08-13T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "usrtk.org"
+    },
+    {
+      "url": "https://www.jdsupra.com/legalnews/bayer-monsanto-face-54-000-roundup-3121099/#:~:text=More%20than%20100%2C000%20Roundup%20lawsuits,class%20action%20lawsuit%20in%20California.",
+      "title": "Bayer, Monsanto Face 54,000 Roundup Lawsuits Over Lymphoma, Cancer Claims",
+      "publishedAt": "2024-08-12T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.jdsupra.com"
+    },
+    {
+      "url": "https://www.dolmanlaw.com/blog/roundup-lawsuits-against-bayer-will-continue/",
+      "title": "Roundup Lawsuits Against Bayer Will Continue After U.S. Appeals Court Rejects Federal Preemption Argument",
+      "publishedAt": "2024-08-02T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.dolmanlaw.com"
+    },
+    {
+      "url": "https://www.ariva.de/news/bayer-ag-aktie-australisches-urteil-bringt-11319811",
+      "title": "Bayer AG shares: Australian ruling brings glimmer of hope",
+      "publishedAt": "2024-07-26T12:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.ariva.de"
+    },
+    {
+      "url": "https://www.devdiscourse.com/article/law-order/3029501-australian-judge-dismisses-class-action-against-bayers-roundup",
+      "title": "Australian Judge Dismisses Class Action Against Bayer’s Roundup",
+      "publishedAt": "2024-07-25T12:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.devdiscourse.com"
+    },
+    {
+      "url": "https://www.wxpr.org/food-and-agriculture/2024-07-18/bayer-protection-roundup-lawsuits-farm-bill",
+      "title": "Bayer seeks protection from lawsuits over Roundup in the latest version of the farm bill",
+      "publishedAt": "2024-07-18T12:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.wxpr.org"
+    },
+    {
+      "url": "https://theweek.com/environment/bayer-lobbying-congress-lawsuits",
+      "title": "Bayer lobbies Congress to shield the company from legal action",
+      "publishedAt": "2024-07-01T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "theweek.com"
+    },
+    {
+      "url": "https://www.lawsuit-information-center.com/roundup-lawsuit.html#:~:text=Many%20are%20speculating%20Bayer%20may,company%20from%20the%20litigation%20claims.",
+      "title": "Monsanto Roundup Lawsuit ",
+      "publishedAt": "2024-06-27T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.lawsuit-information-center.com"
+    },
+    {
+      "url": "https://investigatemidwest.org/2024/06/26/is-bayer-looking-for-a-new-exit-ramp-in-roundup-lawsuits/",
+      "title": "Is Bayer looking for a new exit ramp in Roundup lawsuits? ",
+      "publishedAt": "2024-06-26T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "investigatemidwest.org"
+    },
+    {
+      "url": "https://www.washingtonpost.com/business/2024/06/20/bayer-roundup-farm-bill-lobbying/",
+      "title": "Bayer lobbies Congress to help fight lawsuits tying Roundup to cancer",
+      "publishedAt": "2024-06-20T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.washingtonpost.com"
+    },
+    {
+      "url": "https://www.benzinga.com/news/24/06/39185732/judge-slashes-bayers-massive-2b-roundup-verdict-to-400m",
+      "title": "Judge Slashes Bayer's Massive $2B Roundup Verdict To $400M",
+      "publishedAt": "2024-06-05T12:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.benzinga.com"
+    },
+    {
+      "url": "https://www.insurancejournal.com/news/national/2024/05/29/776005.htm",
+      "title": "Bayer Fights for Survival as Roundup Lawsuits Burn Cash",
+      "publishedAt": "2024-05-29T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.insurancejournal.com"
+    },
+    {
+      "url": "https://news.bloomberglaw.com/esg/bayer-ceo-calls-roundup-claims-a-risk-to-world-food-security",
+      "title": "Bayer Fights for Survival as Roundup Lawsuits Burn Cash",
+      "publishedAt": "2024-05-24T16:31:32.788000Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "news.bloomberglaw.com"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2024-05-23/bayer-ceo-calls-roundup-claims-a-risk-to-world-food-security",
+      "title": "Bayer Fights for Survival as Roundup Lawsuits Burn Cash",
+      "publishedAt": "2024-05-24T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.bloomberg.com"
+    },
+    {
+      "url": "https://apnews.com/article/bayer-roundup-pesticide-cancer-lawsuits-35a9e6d8773b5145c920d919a28fdb83",
+      "title": "Maker of popular weedkiller amplifies fight against cancer-related lawsuits ",
+      "publishedAt": "2024-05-22T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "apnews.com"
+    },
+    {
+      "url": "https://ct.moreover.com/?a=53869580503&p=bqm&v=1&x=iFar155bRt5Hj7VyDkgI-g",
+      "title": "Maker of popular weedkiller amps up fight against cancer lawsuits",
+      "publishedAt": "2024-05-21T22:08:16Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "ct.moreover.com"
+    },
+    {
+      "url": "https://eulerpool.com/en/news/pharma/bayer-bankruptcy-trick-against-glyphosate-lawsuits",
+      "title": "Bayer: Bankruptcy Trick Against Glyphosate Lawsuits? ",
+      "publishedAt": "2024-05-13T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "eulerpool.com"
+    },
+    {
+      "url": "https://blogs.illinois.edu/view/7000/67348354",
+      "title": "Brubaker talks Bayer, Texas Two-Step bankruptcy with Bloomberg",
+      "publishedAt": "2024-04-26T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "blogs.illinois.edu"
+    },
+    {
+      "url": "https://www1.wdr.de/nachrichten/rheinland/bayer-leverkusen-hauptversammlung-104.html",
+      "title": "Bayer Annual General Meeting: Protest again in Leverkusen",
+      "publishedAt": "2024-04-26T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www1.wdr.de"
+    },
+    {
+      "url": "https://www.cbsnews.com/news/bayer-roundup-legislation-shield-cancer/",
+      "title": "Bayer seeks legal shield from suits claiming Roundup causes cancer",
+      "publishedAt": "2024-04-16T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.cbsnews.com"
+    },
+    {
+      "url": "https://ct.moreover.com/?a=53579451503&p=bqm&v=1&x=jp8UTfs1kqh6M7mSsIU_Uw",
+      "title": "Bayer forms alliance with 60 entities in defense of glyphosate in the USA",
+      "publishedAt": "2024-04-15T16:33:41Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "ct.moreover.com"
+    },
+    {
+      "url": "https://fortune.com/2024/04/05/bayer-monsanto-roundup-weed-killer-supreme-court-ruling-punishment/",
+      "title": "Bayer's $1.5 billion Roundup verdict slashed by more than 60% ",
+      "publishedAt": "2024-04-06T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "fortune.com"
+    },
+    {
+      "url": "https://www.reuters.com/legal/judge-slashes-bayer-156-billion-roundup-verdict-611-million-2024-04-05/",
+      "title": "Judge slashes Bayer $1.56 billion Roundup verdict to $611 million",
+      "publishedAt": "2024-04-06T00:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.reuters.com"
+    },
+    {
+      "url": "https://iowacapitaldispatch.com/2024/04/02/iowa-senate-votes-to-limit-lawsuits-over-roundup-other-farm-and-lawn-chemicals/",
+      "title": "Iowa Senate votes to limit lawsuits over Roundup, other farm and lawn chemicals",
+      "publishedAt": "2024-04-02T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "iowacapitaldispatch.com"
+    },
+    {
+      "url": "https://iowastartingline.com/2024/03/25/as-cancer-rates-rise-iowa-could-make-it-illegal-to-sue-pesticide-manufacturers/",
+      "title": "As cancer rates rise, Iowa could make it illegal to sue pesticide manufacturers",
+      "publishedAt": "2024-03-25T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "iowastartingline.com"
+    },
+    {
+      "url": "https://www.agdaily.com/news/bayer-considers-bankruptcy-to-address-roundup-lawsuits/",
+      "title": "Bayer considers bankruptcy maneuver to address Roundup lawsuits",
+      "publishedAt": "2024-03-18T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.agdaily.com"
+    },
+    {
+      "url": "https://www.insurancejournal.com/news/national/2024/03/15/765071.htm",
+      "title": "Bayer Weighs ‘Texas Two-Step’ Bankruptcy Filing Over Roundup",
+      "publishedAt": "2024-03-15T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.insurancejournal.com"
+    },
+    {
+      "url": "https://news.bloomberglaw.com/bankruptcy-law/bayer-weighs-texas-two-step-bankruptcy-filing-over-roundup",
+      "title": "Bayer Weighs ‘Texas Two-Step’ Bankruptcy Filing Over Roundup (3)",
+      "publishedAt": "2024-03-14T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "news.bloomberglaw.com"
+    },
+    {
+      "url": "https://seekingalpha.com/news/4079251-bayer-looking-at-long-shot-texas-two-step-bankruptcy-over-roundup-bloomberg",
+      "title": "Bayer looking at long shot 'Texas Two-Step' bankruptcy over Roundup ",
+      "publishedAt": "2024-03-13T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "seekingalpha.com"
+    },
+    {
+      "url": "https://apnews.com/article/roundup-weedkiller-bayer-monsanto-cancer-f34759d9dda15e51e947c84f3bd96104",
+      "title": "Mistrial declared in Delaware lawsuit blaming landscaper’s cancer on use of Roundup weedkiller",
+      "publishedAt": "2024-03-02T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "apnews.com"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2024-03-01/monsanto-wins-mistrial-in-roundup-case-after-jury-deadlocks",
+      "title": "Bayer Roundup Trial Over Cancer Death Ends Without Verdict",
+      "publishedAt": "2024-03-02T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.bloomberg.com"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2024-02-28/bayer-gets-332-million-roundup-verdict-slashed-by-more-than-90",
+      "title": "Bayer Gets $332 Million Roundup Verdict Slashed by More Than 90%",
+      "publishedAt": "2024-02-29T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.bloomberg.com"
+    },
+    {
+      "url": "https://www.ehn.org/bayer-s-roundup-lawsuit-award-cut-90-by-california-judge-2667397548.html",
+      "title": "Bayer's Roundup lawsuit award cut 90% by California judge",
+      "publishedAt": "2024-02-29T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.ehn.org"
+    },
+    {
+      "url": "https://www.indianagazette.com/news/bayer-fights-string-of-roundup-trial-losses-including-2-25b-verdict-in-philadelphia/article_033617e1-d7ca-56e7-b44a-7271f8dfb76a.html",
+      "title": "Bayer fights string of Roundup trial losses including $2.25B verdict in Philadelphia",
+      "publishedAt": "2024-02-15T00:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.indianagazette.com"
+    },
+    {
+      "url": "https://www.law.com/radar/card/roundup-trials-in-four-states-monsanto-could-face-four-trials-this-month-292-176207/",
+      "title": "Roundup Trials in Four States? Monsanto Could Face Four Trials This Month",
+      "publishedAt": "2024-02-15T00:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.law.com"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/bayer-loses-roundup-appeal-in-blow-to-efforts-to-end-litigation-1.2031240",
+      "title": "Bayer Loses Roundup Appeal in Blow to Efforts to End Litigation",
+      "publishedAt": "2024-02-06T00:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.bnnbloomberg.ca"
+    },
+    {
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/bayer-faces-australian-test-with-judge-decide-whether-weedkiller-caused-cancer-2024-01-30/",
+      "title": "Bayer faces Australian test with judge to decide whether weedkiller caused cancer ",
+      "publishedAt": "2024-01-31T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.reuters.com"
+    },
+    {
+      "url": "https://www.rnz.co.nz/news/world/507965/bayer-faces-australian-test-with-judge-to-decide-whether-weedkiller-caused-cancer",
+      "title": "Bayer faces Australian test with judge to decide whether weedkiller caused cancer",
+      "publishedAt": "2024-01-30T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.rnz.co.nz"
+    },
+    {
+      "url": "https://www.washingtonpost.com/business/2024/01/27/roundup-monsanto-bayer-cancer-claim/",
+      "title": "Bayer ordered to pay $2.25 billion after jury links herbicide Roundup to cancer",
+      "publishedAt": "2024-01-27T00:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.washingtonpost.com"
+    },
+    {
+      "url": "https://www.reuters.com/legal/bayer-wins-latest-roundup-cancer-trial-ending-losing-streak-2023-12-23/",
+      "title": "Bayer wins latest Roundup cancer trial, ending losing streak",
+      "publishedAt": "2023-12-24T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.reuters.com"
+    },
+    {
+      "url": "https://www.deutschlandfunk.de/bayer-muss-in-usa-weitere-3-5-millionen-dollar-wegen-glyphosathaltigem-unkrautvernichter-zahlen-100.html",
+      "title": "Bayer has to pay another 3.5 million dollars in the USA because of weed killer containing glyphosate ",
+      "publishedAt": "2023-12-06T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.deutschlandfunk.de"
+    },
+    {
+      "url": "https://www.nytimes.com/2023/12/06/business/monsanto-bayer-roundup-lawsuit-settlements.html",
+      "title": "Years After Monsanto Deal, Bayer’s Roundup Bills Keep Piling Up ",
+      "publishedAt": "2023-12-06T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.nytimes.com"
+    },
+    {
+      "url": "https://www.ft.com/content/c00073c1-22c3-40b7-923f-a3cbf71875f2",
+      "title": "Bayer drug setback adds to new CEO's problems",
+      "publishedAt": "2023-11-22T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.ft.com"
+    },
+    {
+      "url": "https://www.reuters.com/legal/bayer-ordered-pay-156-billion-latest-us-trial-loss-over-roundup-weedkiller-2023-11-19/",
+      "title": "Bayer ordered to pay $1.56 billion in latest US trial loss over Roundup weedkiller",
+      "publishedAt": "2023-11-19T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.reuters.com"
+    },
+    {
+      "url": "https://www.reuters.com/legal/government/bayer-says-judge-gave-roundup-jury-secret-message-before-175-mln-verdict-2023-11-07/",
+      "title": "Bayer says judge gave Roundup jury secret message before $175 mln verdict",
+      "publishedAt": "2023-11-07T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.reuters.com"
+    },
+    {
+      "url": "https://www.theguardian.com/environment/2023/nov/03/pesticide-regulation-cancer-bayer-roundup-law-legislation",
+      "title": "‘It’s an abomination’: battle brewing over proposed US laws to protect pesticide companies",
+      "publishedAt": "2023-11-03T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.theguardian.com"
+    },
+    {
+      "url": "https://www.reuters.com/legal/bayer-investor-calls-rethink-after-latest-glyphosate-defeat-2023-11-01/",
+      "title": "Bayer in Munich: injunctions against generics over cancer drug",
+      "publishedAt": "2023-11-01T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.reuters.com"
+    },
+    {
+      "url": "https://www.inquirer.com/news/philadelphia/roundup-weed-killer-cancer-claim-philadelphia-verdict-20231027.html#:~:text=A%20Philadelphia%20Common%20Pleas%20Court,the%20herbicide%20gave%20him%20cancer.",
+      "title": "Philadelphia jury awards $175 million after deciding 83-year-old man got cancer from Roundup weed killer",
+      "publishedAt": "2023-10-27T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.inquirer.com"
+    },
+    {
+      "url": "https://www.reuters.com/legal/litigation/bayer-must-pay-125-mln-roundup-cancer-trial-jury-finds-2023-10-20/",
+      "title": "Bayer must pay $1.25 million in Roundup cancer trial, jury finds",
+      "publishedAt": "2023-10-20T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.reuters.com"
+    },
+    {
+      "url": "https://phys.org/news/2023-10-ngos-accuse-bayer-glyphosate.html#google_vignette",
+      "title": "NGOs accuse Bayer of hiding glyphosate risk data",
+      "publishedAt": "2023-10-04T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "phys.org"
+    },
+    {
+      "url": "https://www.theguardian.com/australia-news/2023/oct/01/roundup-class-action-monsanto-cancer-glyphosate",
+      "title": "Does glyphosate cause cancer? Australia’s Roundup case against Monsanto will offer a fresh legal answer",
+      "publishedAt": "2023-09-30T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.theguardian.com"
+    },
+    {
+      "url": "https://www.pan-europe.info/press-releases/2023/09/criminal-complaint-against-bayer-concealing-glyphosate-risks-pregnant-women",
+      "title": "Criminal Complaint Against Bayer for Concealing Glyphosate Risks to Pregnant Women",
+      "publishedAt": "2023-09-27T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.pan-europe.info"
+    },
+    {
+      "url": "https://www.ft.com/content/36f28381-1cc2-4ce7-9053-7c172605d08c",
+      "title": "US lawyers keep up pressure on Bayer over Roundup",
+      "publishedAt": "2023-08-06T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.ft.com"
+    },
+    {
+      "url": "https://apnews.com/article/monsanto-bayer-pesticide-new-york-settlement-d3d2be0790d113cbbbae9ed8c88b82fc",
+      "title": "Bayer reaches $6.9 million settlement with New York over advertising for weedkiller Roundup",
+      "publishedAt": "2023-06-15T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "apnews.com"
+    },
+    {
+      "url": "https://www.law.com/2023/05/24/bayer-wins-7th-defense-verdict-over-monsantos-roundup-pesticide/",
+      "title": "Bayer Wins 7th Defense Verdict Over Monsanto's Roundup",
+      "publishedAt": "2023-05-24T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.law.com"
+    },
+    {
+      "url": "https://www.dtnpf.com/agriculture/web/ag/crops/article/2023/03/16/bayer-files-roundup-brief-11th-case",
+      "title": "Bayer Makes Case on Roundup Labels",
+      "publishedAt": "2023-03-16T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.dtnpf.com"
+    },
+    {
+      "url": "https://www.law.com/2023/02/10/bayer-takes-its-roundup-fight-to-third-circuit/",
+      "title": "Bayer Takes Its Roundup Fight to Third Circuit",
+      "publishedAt": "2023-02-10T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.law.com"
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/2023/jan/20/glyphosate-weedkiller-cancer-biomarkers-urine-study",
+      "title": "People exposed to weedkiller chemical have cancer biomarkers in urine",
+      "publishedAt": "2023-01-20T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.theguardian.com"
+    },
+    {
+      "url": "https://www.reuters.com/legal/bayer-is-sued-barring-non-us-citizen-roundup-settlement-2023-01-19/",
+      "title": "Bayer sued for barring non-U.S. citizen from Roundup settlement",
+      "publishedAt": "2023-01-19T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.reuters.com"
+    },
+    {
+      "url": "https://usrtk.org/industry-pr/meet-the-merchants-of-poison/",
+      "title": "Meet the Merchants of Poison: Front groups Bayer uses to defend glyphosate",
+      "publishedAt": "2023-01-10T00:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "usrtk.org"
+    },
+    {
+      "url": "https://www.wsj.com/articles/bayer-hits-courtroom-winning-streak-as-it-battles-remaining-roundup-lawsuits-11664875982?mod=business_lead_pos3",
+      "title": "Bayer Hits Courtroom Winning Streak as It Battles Remaining Roundup Lawsuits",
+      "publishedAt": "2022-10-04T00:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.wsj.com"
+    },
+    {
+      "url": "https://lawstreetmedia.com/news/agriculture/bayer-answers-complaint-in-roundup-personal-injury-mdl/",
+      "title": "Bayer Answers Complaint in Roundup Personal Injury MDL",
+      "publishedAt": "2022-10-03T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "lawstreetmedia.com"
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/2022/aug/23/bayer-roundup-monsanto-epa-trial-cancer-victims",
+      "title": "Popular weedkiller Roundup on trial again as cancer victims demand justice",
+      "publishedAt": "2022-08-23T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.theguardian.com"
+    },
+    {
+      "url": "https://www.reuters.com/world/us/us-appeals-court-revives-roundup-weedkiller-cancer-lawsuit-2022-07-12/",
+      "title": "U.S. appeals court revives Roundup weedkiller cancer lawsuit",
+      "publishedAt": "2022-07-13T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.reuters.com"
+    },
+    {
+      "url": "https://www.insurancejournal.com/news/national/2022/07/13/675664.htm",
+      "title": "Appeals Court Revives Roundup Weedkiller Cancer Lawsuit",
+      "publishedAt": "2022-07-13T00:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.insurancejournal.com"
+    },
+    {
+      "url": "https://www.reuters.com/business/us-supreme-court-again-nixes-bayer-challenge-weedkiller-suits-2022-06-27/",
+      "title": "U.S. Supreme Court again nixes Bayer challenge to weedkiller suits",
+      "publishedAt": "2022-06-28T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.reuters.com"
+    },
+    {
+      "url": "https://www.wsj.com/articles/farmers-stick-with-bayers-roundup-undeterred-by-supreme-court-decision-11655917680",
+      "title": "Farmers Stick With Bayer’s Roundup, Undeterred by Supreme Court Decision - WSJ",
+      "publishedAt": "2022-06-22T00:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.wsj.com"
+    },
+    {
+      "url": "https://www.bbc.com/news/business-61886525",
+      "title": "Bayer: US Supreme Court rejects chemical maker's weedkiller appeal",
+      "publishedAt": "2022-06-21T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.bbc.com"
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/2022/jun/17/glyphosate-roundup-weed-killer-bayer",
+      "title": "US must re-examine risks of glyphosate, key Roundup weedkiller ingredient ",
+      "publishedAt": "2022-06-17T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.theguardian.com"
+    },
+    {
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-supreme-court-will-soon-decide-whether-hear-bayers-weedkiller-case-2022-06-10/",
+      "title": "U.S. Supreme Court will soon decide whether to hear Bayer's weedkiller case",
+      "publishedAt": "2022-06-10T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.reuters.com"
+    },
+    {
+      "url": "https://www.law.com/2022/05/10/in-big-change-u-s-solicitor-general-now-backs-80m-verdict-against-bayers-roundup/",
+      "title": "In Big Change, US Solicitor General Now Backs $80M Verdict Against Bayer's Roundup",
+      "publishedAt": "2022-05-10T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.law.com"
+    },
+    {
+      "url": "https://www.reuters.com/legal/government/supreme-court-asks-us-government-views-bayer-weedkiller-case-2021-12-13/",
+      "title": "Supreme Court asks U.S. government for views on Bayer weedkiller case",
+      "publishedAt": "2021-12-14T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.reuters.com"
+    },
+    {
+      "url": "https://www.law.com/therecorder/2021/03/19/bayer-is-not-seeking-supreme-court-review-of-nations-first-roundup-verdict/",
+      "title": "Bayer Not Seeking Supreme Court Review of Nation's First Roundup Verdict",
+      "publishedAt": "2021-10-19T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.law.com"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2021-10-08/bayer-wins-roundup-court-case-as-aussie-farmers-stick-with-apvma/100524494",
+      "title": "Roundup owner Bayer wins US court case as Australian farmers say they'll stick with APVMA advice",
+      "publishedAt": "2021-10-08T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.abc.net.au"
+    },
+    {
+      "url": "https://phys.org/news/2021-10-mother-young-cancer-victim-roundup.html",
+      "title": "US mother of young cancer victim loses suit over Roundup weedkiller",
+      "publishedAt": "2021-10-06T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "phys.org"
+    },
+    {
+      "url": "https://www.ofimagazine.com/news/bayer-to-halt-us-residential-sales-of-glyphosate-herbicides",
+      "title": "Bayer to halt US residential sales of glyphosate herbicides",
+      "publishedAt": "2021-08-16T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.ofimagazine.com"
+    },
+    {
+      "url": "https://law.justia.com/cases/california/court-of-appeal/2021/a158228.html",
+      "title": "Pilliod v. Monsanto Co.",
+      "publishedAt": "2021-08-09T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "law.justia.com"
+    },
+    {
+      "url": "https://news.agropages.com/News/NewsDetail---39914.htm#:~:text=Bayer%20have%20announced%20that%20they,their%20cancer%20causing%20weedkiller%20Roundup.",
+      "title": "Bayer confirms end of sale of glyphosate-based herbicides for US lawn and garden market-Agricultural news",
+      "publishedAt": "2021-08-02T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "news.agropages.com"
+    },
+    {
+      "url": "https://thecounter.org/bayer-glyphosate-products-roundup-residential-2023-cancer/",
+      "title": "Bayer will stop selling Roundup for residential use in 2023, an effort to prevent future cancer lawsuits",
+      "publishedAt": "2021-07-30T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "thecounter.org"
+    },
+    {
+      "url": "https://www.ecowatch.com/bayer-ending-glyphosate-sales-us-market-2654298339.html",
+      "title": "Bayer to Pull Glyphosate Products, Including Roundup, From U.S. Home and Garden Market - EcoWatch",
+      "publishedAt": "2021-07-30T00:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.ecowatch.com"
+    },
+    {
+      "url": "https://www.agribusinessglobal.com/industry-news/bayer-optimistic-u-s-supreme-court-will-hear-roundup-case/",
+      "title": "Bayer Optimistic U.S. Supreme Court Will Hear Roundup Case",
+      "publishedAt": "2021-07-29T00:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.agribusinessglobal.com"
+    },
+    {
+      "url": "https://www.aljazeera.com/economy/2021/5/26/us-judge-rejects-bayers-2b-deal-to-resolve-future-roundup-suits",
+      "title": "US judge rejects Bayer’s $2B deal to resolve future Roundup suits",
+      "publishedAt": "2021-05-26T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.aljazeera.com"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2021-03-19/bayer-won-t-ask-u-s-supreme-court-to-reverse-first-roundup-loss",
+      "title": "Bayer Won’t Ask U.S. Supreme Court to Reverse Roundup Loss",
+      "publishedAt": "2021-03-19T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.bloomberg.com"
+    },
+    {
+      "url": "https://stlrecord.com/stories/555684615-court-activity-on-sept-25-jacqueline-dixon-vs-monsanto-company",
+      "title": "Court activity on Sept. 25: Jacqueline Dixon vs Monsanto ...",
+      "publishedAt": "2020-09-27T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "stlrecord.com"
+    },
+    {
+      "url": "https://www.france24.com/en/20200721-bayer-loses-roundup-weedkiller-appeal-in-us-court",
+      "title": "Bayer loses Roundup weedkiller appeal in US court",
+      "publishedAt": "2020-07-21T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.france24.com"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2020-07-07/bayer-s-roundup-cancer-settlement-plan-hits-snag-as-judge-balks",
+      "title": "Bayer’s Roundup-Cancer Settlement Plan Hits Snag",
+      "publishedAt": "2020-07-07T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.bloomberg.com"
+    },
+    {
+      "url": "https://www.theguardian.com/business/2020/jun/24/bayer-109bn-settlement-monsanto-weedkiller-roundup",
+      "title": "Bayer agrees to $10.9bn settlement over Monsanto’s weedkiller Roundup",
+      "publishedAt": "2020-06-24T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.theguardian.com"
+    },
+    {
+      "url": "https://www.aljazeera.com/economy/2020/6/23/us-court-blocks-california-cancer-label-on-bayer-weed-killer",
+      "title": "US court blocks California cancer label on Bayer weed killer",
+      "publishedAt": "2020-06-23T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.aljazeera.com"
+    },
+    {
+      "url": "https://www.itaa.org/bayer-verbally-agrees-to-settle-85000-roundup-cancer-lawsuits/",
+      "title": "Bayer Verbally Agrees to Settle 85,000 Roundup Cancer Lawsuits",
+      "publishedAt": "2020-06-11T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.itaa.org"
+    },
+    {
+      "url": "https://www.reuters.com/article/us-bayer-dicamba-lawsuit/u-s-court-blocks-sales-of-bayer-weed-killer-in-united-states-idUSKBN23B0JA/",
+      "title": "U.S. court blocks sales of Bayer weed killer in United States",
+      "publishedAt": "2020-06-05T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.reuters.com"
+    },
+    {
+      "url": "https://www.potatonewstoday.com/2020/02/11/bayer-asks-california-court-to-reverse-86-million-roundup-cancer-verdict/",
+      "title": "Bayer asks California court to reverse $86 million Roundup cancer verdict",
+      "publishedAt": "2020-02-11T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.potatonewstoday.com"
+    },
+    {
+      "url": "https://www.reuters.com/article/us-bayer-glyphosate-lawsuit/bayer-faces-fourth-u-s-roundup-cancer-trial-in-monsanto-home-court-idUSKBN1ZN0D9/",
+      "title": "Bayer faces fourth U.S. Roundup cancer trial in Monsanto's hometown",
+      "publishedAt": "2020-01-25T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.reuters.com"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2019-12-21/u-s-epa-supports-bayer-s-appeal-of-roundup-cancer-verdict",
+      "title": "U.S. EPA Supports Bayer’s Appeal of Roundup Cancer Verdict",
+      "publishedAt": "2019-12-20T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.bloomberg.com"
+    },
+    {
+      "url": "https://www.cbc.ca/news/canada/british-columbia/monsanto-roundup-lawsuit-1.5325084",
+      "title": "B.C. man sues Monsanto, Bayer, alleging Roundup herbicide caused his cancer",
+      "publishedAt": "2019-10-18T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.cbc.ca"
+    },
+    {
+      "url": "https://dockets.justia.com/docket/hawaii/hidce/1:2019cv00426/145603",
+      "title": "Dixon et al v. Monsanto Company",
+      "publishedAt": "2019-08-09T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "dockets.justia.com"
+    },
+    {
+      "url": "https://www.washingtonpost.com/business/2019/07/26/judge-cuts-billion-award-couple-with-cancer-million-roundup-lawsuit/",
+      "title": "Judge cuts $2 billion award for couple with cancer by 95%",
+      "publishedAt": "2019-07-28T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.washingtonpost.com"
+    },
+    {
+      "url": "https://www.nbcnews.com/news/us-news/monsanto-parent-company-bayer-faces-thousands-roundup-cancer-cases-after-n1007246",
+      "title": "Monsanto parent company Bayer faces thousands of Roundup-cancer cases after $2 billion verdict",
+      "publishedAt": "2019-05-20T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.nbcnews.com"
+    },
+    {
+      "url": "https://www.cbsnews.com/news/jury-awards-couple-2billion-monsanto-roundup-weed-killer-cancer-lawsuit-trial-today-2019-05-13/",
+      "title": "Jury awards couple $2 billion in Monsanto Roundup cancer lawsuit trial",
+      "publishedAt": "2019-05-13T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.cbsnews.com"
+    },
+    {
+      "url": "https://www.usnews.com/news/national-news/articles/2019-03-28/man-awarded-80-million-in-lawsuit-linking-roundup-weed-killer-to-cancer",
+      "title": "Man Awarded $80 Million in Lawsuit Linking Roundup Weed Killer to Cancer",
+      "publishedAt": "2019-03-28T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.usnews.com"
+    },
+    {
+      "url": "https://abcnews.go.com/Health/us-jury-finds-roundup-weed-killer-caused-cancer/story?id=61809259",
+      "title": "2nd US jury finds Roundup weed killer caused cancer",
+      "publishedAt": "2019-03-21T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "abcnews.go.com"
+    },
+    {
+      "url": "https://www.wsj.com/articles/bayer-hit-by-more-lawsuits-over-safety-of-roundup-weedkiller-1542098262",
+      "title": "Bayer Hit by More Lawsuits Over Safety of Roundup Weedkiller",
+      "publishedAt": "2018-11-13T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.wsj.com"
+    },
+    {
+      "url": "https://edition.cnn.com/2018/08/10/health/monsanto-johnson-trial-verdict/index.html",
+      "title": "Jurors give $289 million to a man they say got cancer from Monsanto’s Roundup weedkiller",
+      "publishedAt": "2018-08-11T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "edition.cnn.com"
+    },
+    {
+      "url": "https://www.bbc.com/news/world-us-canada-45154362",
+      "title": "Weedkiller glyphosate 'doesn't cause cancer'",
+      "publishedAt": "2018-08-11T06:00:00Z",
+      "isAlertable": false,
+      "translatedTitle": null,
+      "source": "www.bbc.com"
+    }
+  ],
+  "keywords": [],
+  "summary": "Bayer faces significant legal challenges related to its Roundup weedkiller, with a Missouri court upholding a $611 million verdict for cancer claims, and thousands of lawsuits pending. The company is exploring bankruptcy for its Monsanto unit and lobbying for state laws to limit liability. Despite the EPA's stance on glyphosate safety, independent studies suggest cancer links, raising public health concerns. Bayer's CEO indicated potential cessation of Roundup production due to litigation costs, which exceed sales revenue. The U.S. Supreme Court may soon decide on Bayer's request to limit state lawsuits, impacting future liabilities. These developments could significantly affect Bayer's ESG ratings and financial stability.",
+  "sentiment": -1,
+  "publishedAt": "2025-05-29T00:00:00Z",
+  "associatedCompanies": [
+    {
+      "kgid": "Q152051",
+      "name": [
+        "Bayer"
+      ]
+    }
+  ],
+  "associatedCountries": [
+    {
+      "name": [
+        "Brazil"
+      ],
+      "kgid": "Q155"
+    },
+    {
+      "name": [
+        "Germany"
+      ],
+      "kgid": "Q183"
+    },
+    {
+      "kgid": "Q30",
+      "name": [
+        "United States of America"
+      ]
+    }
+  ],
+  "associatedSectors": [
+    {
+      "name": [
+        "Healthcare and Pharmaceuticals"
+      ],
+      "kgid": "Q15067276"
+    },
+    {
+      "kgid": "Q8148",
+      "name": [
+        "Industrials"
+      ]
+    },
+    {
+      "kgid": "SQ49760174",
+      "name": [
+        "Agricultural Commodities"
+      ]
+    }
+  ]
+}
